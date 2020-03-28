@@ -1,8 +1,8 @@
 #!/bin/bash
 
 VERSION="0.2"
-TOKEN=""
-CHATS=()
+TOKEN="1023408366:AAFjgwSOK9McKSDwKSBfnwIXvdoxmnyoBQY"
+CHATS="@TTMESbot"
 DEBUG=false
 DRY_RUN=false
 
