@@ -8,11 +8,11 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "telegram",
+            "name": "Launch Program",
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${file}"
+            "program": "${telegram}"
         }
     ]
 }
